@@ -1,0 +1,5 @@
+项目是使用node+mysql的接口项目，主要是为四阶段vue小U商城使用
+1.获取到项目后，在命令行中进入到项目根目录，执行npm install来获取node_modules
+2.根目录下的data文件夹内存放的是导出的sql格式数据，可以使用工具导入(比如Navicate for MySQL)，或者直接使用接口自行添加数据
+3.准备工作做好之后，在命令行中进入到项目根目录，执行node ./bin/www来运行项目，默认域名是http://localhost:3000
+4.接口的详细使用见接口说明.md文件
